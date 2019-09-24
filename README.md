@@ -21,7 +21,7 @@ getProgression(60, 'I-IV-V-VI', :maj) # => (ring (ring 60, 64, 67), (ring 65, 69
 # Usage
 1) clone or download the repository
 2) ```require 'path/to/progression_gen.rb'```
-3) create a progression like ```progression = getProgression(60, 'I-IV(i4)-V(add9, i2)-IV'```
+3) create a progression like ```progression = getProgression(60, 'I-IV(i4)-V(add9, i2)-IV')```
 
 # ToDo
 - improve code
